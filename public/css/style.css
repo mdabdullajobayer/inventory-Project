@@ -3,6 +3,12 @@
 @import "progress.css";
 @import "dropdownmenu.css";
 
+.navbar-brand img {
+    width: 120px;       /* or any other desired width */
+    height: auto;      /* maintains aspect ratio */
+    max-width: 100%;   /* ensures responsiveness */
+}
+
 .card-img-top {
     width: 100%;
     height: 20vw;
