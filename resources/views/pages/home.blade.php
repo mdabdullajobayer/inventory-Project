@@ -57,29 +57,36 @@
                 <div class="col-12 col-md-6 col-lg-3 p-3">
                     <div class="card px-0 text-center">
                         <img class=" card-img-top mb-3 w-100" src="{{ asset('/images/man.jpg') }}" alt="">
-                        <h5>Danny Bailey</h5>
+                        <h5>Iqbal Hasan</h5>
                         <p class="text-muted mb-4">CEO &amp; Founder</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 p-3">
                     <div class="card px-0 text-center">
                         <img class=" card-img-top mb-3 w-100" src="{{ asset('/images/man.jpg') }}" alt="">
-                        <h5>Danny Bailey</h5>
-                        <p class="text-muted mb-4">CEO &amp; Founder</p>
+                        <h5>Saiful Islam</h5>
+                        <p class="text-muted mb-4">CO-Founder &amp; Chairman</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 p-3">
                     <div class="card px-0 text-center">
                         <img class=" card-img-top mb-3 w-100" src="{{ asset('/images/man.jpg') }}" alt="">
-                        <h5>Danny Bailey</h5>
-                        <p class="text-muted mb-4">CEO &amp; Founder</p>
+                        <h5>Asif Newaz</h5>
+                        <p class="text-muted mb-4">CO-Founder &amp; CMO</p>
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-3 p-3">
                     <div class="card px-0 text-center">
                         <img class=" card-img-top mb-3 w-100" src="{{ asset('/images/man.jpg') }}" alt="">
-                        <h5>Danny Bailey</h5>
-                        <p class="text-muted mb-4">CEO &amp; Founder</p>
+                        <h5>Hisam Mohammad Nakib</h5>
+                        <p class="text-muted mb-4">CO-Founder &amp; COO</p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-3 p-3">
+                    <div class="card px-0 text-center">
+                        <img class=" card-img-top mb-3 w-100" src="{{ asset('/images/man.jpg') }}" alt="">
+                        <h5>Nusrul Nakib Nahid</h5>
+                        <p class="text-muted mb-4">CO-Founder &amp; CTO</p>
                     </div>
                 </div>
             </div>
