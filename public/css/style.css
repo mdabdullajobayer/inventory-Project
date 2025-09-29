@@ -3,8 +3,8 @@
 @import "progress.css";
 @import "dropdownmenu.css";
 
-.navbar-brand img {
-    width: 120px;       /* or any other desired width */
+.navbar-brand .menu-icon {
+    width: 28px;       /* or any other desired width */
     height: auto;      /* maintains aspect ratio */
     max-width: 100%;   /* ensures responsiveness */
 }

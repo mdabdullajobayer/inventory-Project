@@ -46,9 +46,9 @@
 
         <a class="navbar-brand" href="#">
             <span class="icon-nav m-0 h5" onclick="MenuBarClickHandler()">
-                <img class="nav-logo-sm mx-2"  src="{{asset('images/menu.svg')}}" alt="logo"/>
+                <img class="nav-logo-sm mx-2 menu-icon" src="{{asset('images/menu.svg')}}" alt="logo"/>
             </span>
-            <img class="nav-logo  mx-2"  src="{{asset('images/logo.png')}}" alt="logo"/>
+            <img class="nav-logo mx-2"  height="40" src="{{asset('images/logo.png')}}" alt="logo"/>
         </a>
 
         <div class="float-right h-auto d-flex">
